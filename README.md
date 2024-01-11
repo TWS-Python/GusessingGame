@@ -29,7 +29,7 @@ For Versions v1.0.0 & up
 After Dependiences are setup, follow Install.md in `TWS-Python/GuessingGame/Game/Versions/VERSION/Instructions/Install.md` -- VERSION is the version of the game you would like to download.
 
 ## Our Mission
-We are trying to make a simple Guessing game that is pleasing to the human eyes and also highly functinal, while using the smallest file sizes and minimal file ammount. After all that, everything still needs to be in at least 90% or more python language. We are open to take suggestions from YOU! Its as easy as opening a Issue and labeling it `Question`.
+We are trying to make a simple Guessing game that is pleasing to the human eyes and also highly functinal, while using the smallest file sizes and minimal file ammount. After all that, everything still needs to be in at least 90% or more python language. We are open to take suggestions from YOU! Its as easy as opening a Issue and labeling it `Question`. Started: 1/10/2023
 
 ## Questions?
 Open a Issue with tag Question!
