@@ -1,0 +1,25 @@
+#If Uselocal is True, all other lines will be ignored and it will depend on Local data. 
+#DO NOT CHANGE IF YOU DONT KNOW WHAT IT DOES! It is set to the recommended mode.
+uselocal: True
+
+serverdata:
+  storesize: 10
+  hsmaxdetail: 3
+  mixhsandus: True
+  getlocalbackups: False
+
+localdata: 
+  type: 'none'
+  getadmin: False
+
+#Version Swaping, do not touch even if you know what it does.
+vSwap: False
+vswaptrue:
+  Vswapto: 0.0.0
+  onsemi: false
+  transferdat: false
+  preversionloading: false
+  
+  
+
+
