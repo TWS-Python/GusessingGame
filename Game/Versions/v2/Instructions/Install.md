@@ -1,6 +1,6 @@
-Version 2 Install:
+# Version 2 Install:
 
-Windows Support (Other OSs are not tested but may still work):
+### Windows Support (Other OSs are not tested but may still work):
 1. In terminal, execute `pip install tk`
 2. Run the python file, Then the game has been launched.
 
