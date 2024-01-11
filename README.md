@@ -26,5 +26,8 @@ installing Tkinter package on macOS using pip
 For Versions v1.0.0 & up
 After Dependiences are setup, follow Install.md in `TWS-Python/GuessingGame/Game/Versions/VERSION/Instructions/Install.md` -- VERSION is the version of the game you would like to download.
 
+## Our Mission
+We are trying to make a simple Guessing game that is pleasing to the human eyes and also highly functinal, while using the smallest file sizes and minimal file ammount. We are opne to take suggestions from YOU! Its as easy as opening a Issue and labeling it `Question`.
+
 ## Questions?
 Open a Issue with tag Question!
